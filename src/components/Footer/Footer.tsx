@@ -8,7 +8,7 @@ export const Footer = () => {
     "UI/UX Architect",
     "AI Systems Engineer",
     "Product Builder",
-    "Scarlett Rose",
+    "Rejone Ahmmed Rafi",
   ];
 
   const scrollToTop = () => {
@@ -50,7 +50,7 @@ export const Footer = () => {
             </div>
             <div className="flex flex-col text-left">
               <span className="font-extrabold tracking-tight text-foreground text-base leading-none">
-                Scarlett Rose
+                Rejone Ahmmed Rafi
               </span>
               <span className="text-[10px] font-bold text-muted-foreground tracking-widest uppercase mt-0.5">
                 Director of Product Engineering
@@ -117,7 +117,7 @@ export const Footer = () => {
 
           {/* Copyright notice */}
           <div className="flex items-center gap-1.5 font-medium text-center md:text-right">
-            <span>© {new Date().getFullYear()} Scarlett Rose. Crafted with</span>
+            <span>© {new Date().getFullYear()} Rejone Ahmmed Rafi. Crafted with</span>
             <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 inline-block" />
             <span>& Lightswind UI</span>
           </div>
