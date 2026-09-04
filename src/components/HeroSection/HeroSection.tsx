@@ -190,7 +190,7 @@ export const HeroSection = () => {
                       SR-89240-PRO
                     </span>
                     <span className="text-muted-foreground font-semibold text-[9px] uppercase tracking-wider">
-                      LIGHTSWIND UI
+                      VERIFIED ID
                     </span>
                   </div>
                 </div>
