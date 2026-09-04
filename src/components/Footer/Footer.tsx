@@ -53,7 +53,7 @@ export const Footer = () => {
                 Rejone Ahmmed Rafi
               </span>
               <span className="text-[10px] font-bold text-muted-foreground tracking-widest uppercase mt-0.5">
-                Director of Product Engineering
+                Junior Full-Stack Web Developer
               </span>
             </div>
           </div>

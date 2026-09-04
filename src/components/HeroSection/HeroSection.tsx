@@ -143,7 +143,7 @@ export const HeroSection = () => {
                 <div>
                   <h3 className="text-xl font-extrabold tracking-tight text-foreground">Rejone Ahmmed Rafi</h3>
                   <div className="inline-flex items-center gap-1.5 mt-1 px-3 py-0.5 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-semibold">
-                    <span>Director of Product Engineering</span>
+                    <span>Junior Full-Stack Web Developer</span>
                   </div>
                 </div>
 

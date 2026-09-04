@@ -5,7 +5,7 @@ export const CareerTimeline = () => {
   const careerEvents = [
     {
       year: "2024 – Present",
-      title: "Director of Product Engineering",
+      title: "Junior Full-Stack Web Developer",
       subtitle: "TechNova Global Solutions",
       description:
         "Leading a 200+ engineering team across 5 continents, overseeing full product lifecycle from ideation to global deployment. Introduced AI-driven development pipelines, reducing time-to-market by 38%. Established enterprise-wide accessibility and sustainability design standards.",
