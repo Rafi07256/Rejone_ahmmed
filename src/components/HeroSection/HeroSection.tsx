@@ -53,6 +53,7 @@ export const HeroSection = () => {
               <span className="bg-gradient-to-r from-violet-600 via-sky-500 via-purple-600 to-indigo-600 bg-clip-text text-transparent font-extrabold text-[clamp(3rem,6.5vw,5.5rem)] leading-none tracking-tight block pb-2 select-none">
                 Rejone Ahmmed Rafi
               </span>
+              <h1 className="sr-only">Rejone Ahmmed Rafi - Junior Full-Stack Web Developer</h1>
             </div>
 
             {/* Dark Theme: Rich Lightswind Aurora Text Effect */}
