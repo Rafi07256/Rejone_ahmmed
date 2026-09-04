@@ -117,9 +117,9 @@ export const Footer = () => {
 
           {/* Copyright notice */}
           <div className="flex items-center gap-1.5 font-medium text-center md:text-right">
-            <span>© {new Date().getFullYear()} Rejone Ahmmed Rafi. Crafted with</span>
+            <span>© {new Date().getFullYear()} Rejone Ahmmed Rafi. Developed By</span>
             <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 inline-block" />
-            <span>& Lightswind UI</span>
+            <span>DEV RAFI</span>
           </div>
         </div>
 
