@@ -98,8 +98,8 @@ export const HeroSection = () => {
           >
             {[
            { icon: Twitter, url: "https://x.com/your-username" },
-           { icon: Github, url: "https://github.com/your-username" },
-           { icon: Linkedin, url: "https://linkedin.com/in/your-username" },
+           { icon: Github, url: "https://github.com/Rafi07256" },
+           { icon: Linkedin, url: "https://linkedin.com/in/yrejoneahmmed" },
            { icon: Mail, url: "mailto:your-email@gmail.com" },
            ].map(({ icon: Icon, url }, i) => (
             <a 
