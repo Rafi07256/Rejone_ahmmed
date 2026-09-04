@@ -96,10 +96,21 @@ export const HeroSection = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.8, duration: 0.8 }}
           >
-            {[Twitter, Github, Linkedin, Mail].map((Icon, i) => (
-              <a key={i} href="#" className="text-muted-foreground hover:text-foreground transition-colors hover:-translate-y-1 transform duration-200">
-                <Icon className="w-5 h-5" />
-              </a>
+            {[
+           { icon: Twitter, url: "https://x.com/your-username" },
+           { icon: Github, url: "https://github.com/your-username" },
+           { icon: Linkedin, url: "https://linkedin.com/in/your-username" },
+           { icon: Mail, url: "mailto:your-email@gmail.com" },
+           ].map(({ icon: Icon, url }, i) => (
+            <a 
+            key={i} 
+            href={url} 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="text-muted-foreground hover:text-foreground transition-colors hover:-translate-y-1 transform duration-200"
+            >
+            <Icon className="w-5 h-5" />
+            </a>
             ))}
           </motion.div>
         </motion.div>
