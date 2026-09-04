@@ -113,7 +113,7 @@ export const HeroSection = () => {
         >
           <HangingIdCard
             name="Rejone Ahmmed Rafi"
-            role="Director of Engineering"
+            role="Junior Full-Stack Web Developer"
             badgeId="SR-89240-PRO"
             accentColor="#8b5cf6"
             ropeLength={75}
@@ -157,11 +157,11 @@ export const HeroSection = () => {
                   </div>
                   <div>
                     <span className="text-muted-foreground block text-[9px] uppercase tracking-widest font-bold">Location</span>
-                    <span className="font-bold text-foreground text-xs">San Francisco, CA</span>
+                    <span className="font-bold text-foreground text-xs">Magura, Khulna, BD</span>
                   </div>
                   <div>
                     <span className="text-muted-foreground block text-[9px] uppercase tracking-widest font-bold">Experience</span>
-                    <span className="font-bold text-foreground text-xs">10+ Years</span>
+                    <span className="font-bold text-foreground text-xs">2+ Years</span>
                   </div>
                   <div>
                     <span className="text-muted-foreground block text-[9px] uppercase tracking-widest font-bold">Status</span>
