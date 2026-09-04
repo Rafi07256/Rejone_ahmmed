@@ -129,7 +129,7 @@ export const HeroSection = () => {
                 {/* Profile Photo with Dual Glowing Ring */}
                 <div className="mt-1 relative w-28 h-28 rounded-full p-1 bg-gradient-to-tr from-cyan-400 via-primary to-purple-400 backdrop-blur-md shadow-2xl border border-white/50 overflow-hidden group">
                   <img 
-                    src="/public/images.png" 
+                    src="/images.png" 
                     alt="Rejone Ahmmed Rafi" 
                     className="w-full h-full object-cover rounded-full filter contrast-105"
                     loading="eager"
