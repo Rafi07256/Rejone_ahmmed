@@ -24,10 +24,7 @@ export const AboutSection = () => {
               Passionate about <span className="text-gradient-primary">Digital Excellence</span>
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I am a seasoned Full-Stack Developer and UI/UX Designer with over 10 years of experience 
-              delivering high-quality software solutions for global enterprises and startups. My career 
-              blends deep technical expertise with leadership skills, enabling me to design, build, and 
-              lead innovative digital products from concept to launch.
+              I am a dedicated Junior Full-Stack Web Developer with 2+ years of hands-on experience in designing and building responsive, modern web applications. My focus blends clean code, modern web technologies, and intuitive UI/UX design to turn ideas into functional, pixel-perfect digital products.
             </p>
           </div>
         </div>
