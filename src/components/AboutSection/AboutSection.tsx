@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import { Code2, Globe2, Layout, Users } from "lucide-react";
 
 const stats = [
-  { icon: <Layout className="w-6 h-6" />, label: "Years Experience", value: "10+" },
-  { icon: <Code2 className="w-6 h-6" />, label: "Projects Completed", value: "150+" },
-  { icon: <Users className="w-6 h-6" />, label: "Happy Clients", value: "50+" },
-  { icon: <Globe2 className="w-6 h-6" />, label: "Global Brands", value: "12" },
+  { icon: <Layout className="w-6 h-6" />, label: "Years Experience", value: "2+" },
+  { icon: <Code2 className="w-6 h-6" />, label: "Projects Completed", value: "15+" },
+  { icon: <Users className="w-6 h-6" />, label: "Happy Clients", value: "18+" },
+  { icon: <Globe2 className="w-6 h-6" />, label: "Global Brands", value: "12+" },
 ];
 
 export const AboutSection = () => {
