@@ -5,23 +5,23 @@ import { MagicCard } from "../lightswind/magic-card";
 const services = [
   {
     icon: Code2,
-    title: "Full-Stack Development",
-    description: "End-to-end web applications built with modern frameworks and highly scalable backend architectures.",
+    title: "Full-Stack Web Development",
+    description: "Building production-ready, dynamic web applications with modern frontend frameworks and structured backend solutions.",
   },
   {
     icon: Palette,
-    title: "UI/UX Architecture",
-    description: "Designing intuitive, accessible, and stunning interfaces that prioritize user experience and conversion.",
+    title: "UI/UX & Frontend Engineering",
+    description: "Crafting pixel-perfect, responsive, and accessible user interfaces focused on smooth animations and user experience.",
   },
   {
     icon: Cpu,
-    title: "Performance Optimization",
-    description: "Auditing and supercharging existing codebases for lighting-fast load times and seamless interactions.",
+    title: "Performance & Optimization",
+    description: "Enhancing web application speed, optimizing asset loading, and ensuring flawless cross-browser compatibility.",
   },
   {
     icon: Layers,
-    title: "Systems Architecture",
-    description: "Designing complex microservices, API integrations, and robust database models for enterprise needs.",
+    title: "API & Database Integration",
+    description: "Developing robust RESTful APIs, handling 2FA/Authentication systems, and managing structured database operations.",
   }
 ];
 
